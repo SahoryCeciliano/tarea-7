@@ -1,0 +1,89 @@
+{
+    "propiedades": [
+        {
+            "tipo": "Rent",
+            "clasificacion": "Apartment",
+            "descripcion": "Con buena ubicación especial para pareja",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-1.jpg",
+            "precio": 550.95,
+            "detalle": {
+                "area":75,
+                "rooms":2,
+                "floors":2,
+                "garages":1
+            }
+            
+        },
+        {
+            "tipo": "Sale",
+            "clasificacion": "House",
+            "descripcion": "Familiar, cálida y muy espociosa",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-2.jpg",
+            "precio": 190345.15,
+            "detalle": {
+                "area":200,
+                "rooms":4,
+                "floors":1,
+                "garages":3
+            }
+            
+        },
+        {
+            "tipo": "Rent",
+            "clasificacion": "Loft",
+            "descripcion": "Especial para estudiantes, bien ubicado",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-3.jpg",
+            "precio": 255.99,
+            "detalle": {
+                "area":45,
+                "rooms":1,
+                "floors":1,
+                "garages":0
+            }
+            
+        },
+        {
+            "tipo": "Sale",
+            "clasificacion": "Apartment",
+            "descripcion": "Todo lo que necesita para vivir",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-4.jpg",
+            "precio": 145700.00,
+            "detalle": {
+                "area":120,
+                "rooms":3,
+                "floors":2,
+                "garages":2
+            }
+        },
+
+        {
+            "tipo": "Rent",
+            "clasificacion": "House",
+            "descripcion": "Lujosa casa para rentar",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-5.jpg",
+            "precio": 3750.50,
+            "detalle": {
+                "area":350,
+                "rooms":5,
+                "floors":3,
+                "garages":6
+            }
+        },
+        {
+            "tipo": "Sale",
+            "clasificacion": "Loft",
+            "descripcion": "Estudio muy acogedor bien ubicado",
+            "imagen": "https://si0sgs.github.io/EstateAgency/assets/img/property-6.jpg",
+            "precio": 85000.00,
+            "detalle": {
+                "area":35,
+                "rooms":1,
+                "floors":2,
+                "garages":1
+            }
+            
+        }       
+
+
+   ]
+}
